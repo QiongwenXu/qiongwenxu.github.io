@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,38 +10,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Rutgers University, 2024 (expected).
+* M.S. in Computer Science, Fudan University, 2018
+* B.Eng. in Electrical Engineering, Central China Normal University, 2015.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - 2019: Software Engineer
+  * Huawei Technology Co. Ltd.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Winter 2016: Software Engineer Intern
+  * DELL EMC
+  * Participated in [InfraSIM](https://github.com/InfraSIM)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+2. **ParaCon: A Parallel Control Plane for Scaling Up Path Computation in SDN**
+  - with Kun Qiu , Siyuan Huang , Jin Zhao, Xin Wang, and Stefano Secci
+  - <i>IEEE Transactions on Network and Service Management (**TNSM**), 14 (4), 978-990</i>
+1. **Fast Shortest-path Queries on Large-scale Graphs**
+  - with  Xu Zhang, Jin Zhao, Xin Wang, Tilman Wolf
+  - <i>Proceedings of IEEE International Conference on Network Protocols (**ICNP**), 2016</i>
+
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
