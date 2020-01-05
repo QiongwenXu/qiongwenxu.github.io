@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Rutgers University, 2024 (expected).
-* M.S. in Computer Science, Fudan University, 2018
+* M.S. in Computer Science, Fudan University, 2018.
 * B.Eng. in Electrical Engineering, Central China Normal University, 2015.
 
 Work experience
