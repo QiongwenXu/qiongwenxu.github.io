@@ -25,9 +25,12 @@ Work experience
 
 Publications
 ======
+3. **Synthesizing Safe and Efficient Kernel Extensions for Packet Processing**
+  - with Michael D. Wong, Tanvi Wagle, Srinivas Narayana, Anirudh Sivaraman
+  - <i>ACM SIGCOMM 2021 (to appear)</i>
 2. **ParaCon: A Parallel Control Plane for Scaling Up Path Computation in SDN**
   - with Kun Qiu , Siyuan Huang , Jin Zhao, Xin Wang, and Stefano Secci
-  - <i>IEEE Transactions on Network and Service Management (**TNSM**), 14 (4), 978-990</i>
+  - <i>IEEE Transactions on Network and Service Management (**TNSM**), 14 (4), 978-990, 2017</i>
 1. **Fast Shortest-path Queries on Large-scale Graphs**
   - with  Xu Zhang, Jin Zhao, Xin Wang, Tilman Wolf
   - <i>Proceedings of IEEE International Conference on Network Protocols (**ICNP**), 2016</i>
